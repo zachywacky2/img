@@ -44,20 +44,6 @@ body {
   overflow: hidden auto;
 }
 
-/* Scroll Bar */
-
-::-webkit-scrollbar {
-  width: 0.4rem;
-  height: 0.5rem;
-}
-
-::-webkit-scrollbar-track {
-  background: #1e1e1e;
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--theme-clr);
-}
 
 /* Nav Bar */
 
