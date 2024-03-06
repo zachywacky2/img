@@ -8,23 +8,6 @@ a {
 }
 
 /* v Remove User Agent Styles ^ */
-
-button {
-  background: none;
-  font-family: "Lexend", sans-serif;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  outline: none;
-  color: white;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 /* New Font */
 
 @font-face {
